@@ -1,0 +1,38 @@
+[
+    {
+        "email": "new@new.com",
+        "password": "b474eca89be9a7d1a1c763f9a893651f3de9c944a8e44119259b8877208569b0045512c068a74508011eb6fd4fbab5856f4227c02b6f3cd87c225365bd1d09f8.7a11f10da9dbdb87",
+        "id": "5fe6f32e"
+    },
+    {
+        "email": "test@test.com",
+        "password": "123",
+        "id": "a1747234"
+    },
+    {
+        "email": "stephcynthia@gmail.com",
+        "password": "Carbondioxyde*1",
+        "id": "796c3bc9"
+    },
+    {
+        "email": "testV1@test.com",
+        "password": "612c95fb1a19a9713dfff05177c856e69866ebb5363365c35e445099e3498010b0265f3d7954a7d77f278e1c738c6894ee93e9dc332e747dee631f0e23aa33c2.173466e233d07ded",
+        "id": "7798fa9e"
+    },
+    {
+        "email": "hey",
+        "password": "08e914e344ea72ee63914676ac1687af74cf6a333735bb378bac99ec02565e2561bf85eab30a5963e8089c09ac0f68ce984f8071ea20bfb9e168f8001680e14b.1c1f77a2fa411921",
+        "id": "afbdfd74"
+    },
+    {
+        "email": "test@test.com",
+        "password": "a768e43f6d5983e97c6c6f012b740a73a60d6c7affd104d9c7229c97f0f03eb623be3c52183c022279ba55988e9181db21d95f17b66b50a69ef1d8d2bd5dd3a7.fa012f92d174c025",
+        "id": "f02d062e"
+    },
+    {
+        "email": "y@gmail.com",
+        "password": "37cdb1ef4747fa450e44b8f433e450b3d841d08141a6d58a7a5e078ec4a42433dd6a22519fd1fe4f00157b7631240649e0d05558ba188b5ab8c3df5cd9916006.b1663b521e7d1db6",
+        "id": "e6645a91"
+    }
+
+]
